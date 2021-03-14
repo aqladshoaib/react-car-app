@@ -12,7 +12,7 @@ import {
 function App() {
   return (
     <div className="App">
-    <div className="header">Cars</div>
+    <div className="header">Car</div>
    
     <Router>
       <div className="centerbody">
