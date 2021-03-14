@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aqladshoaib/react-car-app/static/css/main.51e2a7af.chunk.css",
+    "main.js": "/aqladshoaib/react-car-app/static/js/main.fe1c698f.chunk.js",
+    "main.js.map": "/aqladshoaib/react-car-app/static/js/main.fe1c698f.chunk.js.map",
+    "runtime-main.js": "/aqladshoaib/react-car-app/static/js/runtime-main.9ab1b526.js",
+    "runtime-main.js.map": "/aqladshoaib/react-car-app/static/js/runtime-main.9ab1b526.js.map",
+    "static/js/2.e2569bc9.chunk.js": "/aqladshoaib/react-car-app/static/js/2.e2569bc9.chunk.js",
+    "static/js/2.e2569bc9.chunk.js.map": "/aqladshoaib/react-car-app/static/js/2.e2569bc9.chunk.js.map",
+    "static/js/3.21ac6ea1.chunk.js": "/aqladshoaib/react-car-app/static/js/3.21ac6ea1.chunk.js",
+    "static/js/3.21ac6ea1.chunk.js.map": "/aqladshoaib/react-car-app/static/js/3.21ac6ea1.chunk.js.map",
+    "index.html": "/aqladshoaib/react-car-app/index.html",
+    "static/css/main.51e2a7af.chunk.css.map": "/aqladshoaib/react-car-app/static/css/main.51e2a7af.chunk.css.map",
+    "static/js/2.e2569bc9.chunk.js.LICENSE.txt": "/aqladshoaib/react-car-app/static/js/2.e2569bc9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aqladshoaib/react-car-app/static/media/gray-bg.2aac0466.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ab1b526.js",
+    "static/js/2.e2569bc9.chunk.js",
+    "static/css/main.51e2a7af.chunk.css",
+    "static/js/main.fe1c698f.chunk.js"
+  ]
+}
