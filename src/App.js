@@ -1,7 +1,7 @@
 
 import './App.css';
 import {ViewCar} from './pages/view-cars/ViewCar'
-import {CarDetails} from './pages/car-details/CarDetails'
+import {AvailableCars} from './pages/available-cars/AvailableCars'
 import {
   BrowserRouter as Router,
   Switch,
@@ -11,7 +11,7 @@ import {
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
     <div className="header">Car</div>
    
     <Router>
@@ -25,8 +25,8 @@ function App() {
           <Route exact path="/">
           <ViewCar />
           </Route>
-          <Route path="/car-detail/:carname">
-           <CarDetails />
+          <Route path="/available-cars/:carname">
+           <AvailableCars />
           </Route>
           
         </Switch>

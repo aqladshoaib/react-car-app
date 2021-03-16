@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { getAppropriateCarList } from "./utils";
 
-export const CarDetails = () => {
+export const AvailableCars = () => {
   const { carname } = useParams();
 
   return (
@@ -10,7 +10,7 @@ export const CarDetails = () => {
       {getAppropriateCarList(carname).map((item) => {
         return (
           <div style={{ display: "block" }}>
-            <img src={"/images/bmw/" + item} />
+            <img  width="400" height="400" src={process.env.PUBLIC_URL+"/images/"+item } />
           </div>
         );
       })}
