@@ -2,7 +2,7 @@
 import './App.css';
 import {ViewCar} from './pages/view-cars/ViewCar'
 import {AvailableCars} from './pages/available-cars/AvailableCars'
-import {
+import{
   BrowserRouter as Router,
   Switch,
   Route,
@@ -12,7 +12,8 @@ import {
 function App() {
   return (
     <div className="App"> 
-    <div className="header">Car</div>
+    <div className="header">TechCar</div>
+    
    
     <Router>
       <div className="centerbody">

@@ -10,8 +10,8 @@ const availableLamborghiniImages = [
   "lamborghini/lamborghini2.jfif",
   "lamborghini/lamborghini3.jpg",
 ];
-const availableFordImages = ["ford/ford1.jfif", "ford/ford2.jpg", "ford/ford3.jpg"];
-
+const availableFordImages = ["ford/ford1.jpg", "ford/ford2.jpg", "ford/ford3.jpg"];
+ 
 export const getAppropriateCarList = (carName) => {
   switch (carName) {
     case "bmw":

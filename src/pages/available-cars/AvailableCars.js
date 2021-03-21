@@ -10,7 +10,7 @@ export const AvailableCars = () => {
       {getAppropriateCarList(carname).map((item) => {
         return (
           <div style={{ display: "block" }}>
-            <img  width="400" height="400" src={process.env.PUBLIC_URL+"/images/"+item } />
+            <img  width="800" height="400" src={process.env.PUBLIC_URL+"/images/"+item } />
           </div>
         );
       })}
